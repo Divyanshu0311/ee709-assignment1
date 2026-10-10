@@ -1,0 +1,6 @@
+Property Vars   Clauses  Lemmas   Result
+-------- ----   -------  ------   ------
+a_K8     40     129      6        UNSAT (property holds for K=8)
+b_K8     40     129      11       UNSAT (property holds for K=8)
+c_K8     48     145      14       UNSAT (property holds for K=8)
+p0_K8    40     66       4        UNSAT (property holds for K=8)

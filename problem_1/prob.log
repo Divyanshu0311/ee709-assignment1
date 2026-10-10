@@ -1,0 +1,10 @@
+Built /home/xyz/Desktop/ee709/problem_1/reach
+fixed point after 4 iterations
+(p,q0,q1) = (0,0,0)
+(p,q0,q1) = (0,0,1)
+(p,q0,q1) = (0,1,0)
+(p,q0,q1) = (0,1,1)
+(p,q0,q1) = (1,0,0)
+(p,q0,q1) = (1,0,1)
+(p,q0,q1) = (1,1,0)
+(p,q0,q1) = (1,1,1)
